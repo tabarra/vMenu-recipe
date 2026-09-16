@@ -21,7 +21,7 @@ tasks:
 
   # Download server.cfg
   - action: download_file
-    url: https://raw.githubusercontent.com/feelfreetofee/vMenu-recipe/main/server.cfg
+    url: https://raw.githubusercontent.com/tabarra/vMenu-recipe/main/server.cfg
     path: ./server.cfg
 
   # Download vMenu
